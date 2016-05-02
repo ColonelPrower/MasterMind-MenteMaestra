@@ -5,3 +5,5 @@ Este es un pequeño juego en Java que realice en la universidad, el objetivo es 
 * Abrir el fichero /dist/Mastermind.jar "java -jar /dist/Mastermind.jar"  o con "abrir con" java
 
 PS: Alumno del CUCIENEGA, si vas a usar este proyecto para entregar lo que no hiciste, minimo estudia el codigo :v
+
+![captura](/menteprincipal.png "Pantalla Principal")
